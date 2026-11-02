@@ -1,0 +1,5 @@
+/build/
+/build-asan/
+.DS_Store
+*.o
+*.a
